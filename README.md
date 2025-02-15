@@ -30,6 +30,6 @@
 - **Version Control:** Git  
 
 ## 🌍 Live Demo  
-👉 **[Live Demo](#)** *(Add your hosted link here if available)*  
+👉 **[Live Demo](https://parnika215.github.io/Fake-Review-Detection-System/)**   
  
 
